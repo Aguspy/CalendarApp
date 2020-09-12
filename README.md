@@ -1,0 +1,1 @@
+It is a simple App that categorizes your events
